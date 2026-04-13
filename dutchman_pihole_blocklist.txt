@@ -1,0 +1,465 @@
+# ================================================
+# Pi-hole Custom Blocklist - Social Media
+# Last updated: 2026-04-13
+# ================================================
+# Covers: Facebook, Instagram, WhatsApp, Twitter/X,
+# TikTok, Snapchat, Reddit, LinkedIn, Pinterest,
+# Tumblr, Discord, Twitch, YouTube,
+# BeReal, Threads, Mastodon, VK, Weibo, WeChat,
+# Line, Clubhouse, Quora, Flickr, Meetup
+# ================================================
+
+
+# -----------------------------------------------
+# FACEBOOK / META
+# -----------------------------------------------
+facebook.com
+www.facebook.com
+m.facebook.com
+mobile.facebook.com
+web.facebook.com
+connect.facebook.com
+graph.facebook.com
+api.facebook.com
+edge-chat.facebook.com
+video.facebook.com
+upload.facebook.com
+z-m.facebook.com
+l.facebook.com
+staticxx.facebook.com
+static.xx.fbcdn.net
+fbcdn.net
+fbsbx.com
+fbexternal-a.akamaihd.net
+scontent.fbcdn.net
+fb.com
+fb.me
+
+
+# -----------------------------------------------
+# INSTAGRAM
+# -----------------------------------------------
+instagram.com
+www.instagram.com
+i.instagram.com
+api.instagram.com
+graph.instagram.com
+business.instagram.com
+connect.instagram.com
+cdninstagram.com
+scontent.cdninstagram.com
+
+
+# -----------------------------------------------
+# WHATSAPP
+# -----------------------------------------------
+whatsapp.com
+www.whatsapp.com
+web.whatsapp.com
+api.whatsapp.com
+v.whatsapp.net
+whatsapp.net
+media.whatsapp.net
+mmg.whatsapp.net
+static.whatsapp.net
+
+
+# -----------------------------------------------
+# THREADS (Meta)
+# -----------------------------------------------
+threads.net
+www.threads.net
+
+
+# -----------------------------------------------
+# TWITTER / X
+# -----------------------------------------------
+twitter.com
+www.twitter.com
+mobile.twitter.com
+api.twitter.com
+upload.twitter.com
+stream.twitter.com
+t.co
+twimg.com
+abs.twimg.com
+pbs.twimg.com
+video.twimg.com
+x.com
+www.x.com
+api.x.com
+
+
+# -----------------------------------------------
+# TIKTOK
+# -----------------------------------------------
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+api16-normal.tiktokv.com
+api19-normal-useast5.tiktokv.com
+tiktokv.com
+tiktokcdn.com
+muscdn.com
+musical.ly
+lf16-tiktok-web.tiktokcdn.com
+lf16-cdn-tos.tiktokcdn.com
+mon.musical.ly
+mon.tiktokv.com
+
+
+# -----------------------------------------------
+# SNAPCHAT
+# -----------------------------------------------
+snapchat.com
+www.snapchat.com
+app.snapchat.com
+api.snapchat.com
+aws.snapchat.com
+sc-cdn.net
+snapchat-ads.com
+snap.com
+ads.snap.com
+tr.snap.com
+
+
+# -----------------------------------------------
+# REDDIT
+# -----------------------------------------------
+reddit.com
+www.reddit.com
+old.reddit.com
+new.reddit.com
+m.reddit.com
+api.reddit.com
+oauth.reddit.com
+redd.it
+redditstatic.com
+redditmedia.com
+preview.redd.it
+i.redd.it
+v.redd.it
+
+
+# -----------------------------------------------
+# LINKEDIN
+# -----------------------------------------------
+linkedin.com
+www.linkedin.com
+m.linkedin.com
+api.linkedin.com
+media.linkedin.com
+platform.linkedin.com
+ads.linkedin.com
+px.ads.linkedin.com
+licdn.com
+static.licdn.com
+media.licdn.com
+snap.licdn.com
+
+
+# -----------------------------------------------
+# PINTEREST
+# -----------------------------------------------
+pinterest.com
+www.pinterest.com
+m.pinterest.com
+api.pinterest.com
+widgets.pinterest.com
+analytics.pinterest.com
+ads.pinterest.com
+trk.pinterest.com
+pinimg.com
+i.pinimg.com
+s.pinimg.com
+
+
+# -----------------------------------------------
+# TUMBLR
+# -----------------------------------------------
+tumblr.com
+www.tumblr.com
+api.tumblr.com
+assets.tumblr.com
+media.tumblr.com
+static.tumblr.com
+data.tumblr.com
+
+
+# -----------------------------------------------
+# DISCORD
+# -----------------------------------------------
+discord.com
+www.discord.com
+app.discord.com
+api.discord.com
+cdn.discord.com
+media.discordapp.net
+discordapp.com
+discordapp.net
+discordcdn.com
+discord.gg
+discord.media
+gateway.discord.gg
+
+
+# -----------------------------------------------
+# TWITCH
+# -----------------------------------------------
+twitch.tv
+www.twitch.tv
+m.twitch.tv
+api.twitch.tv
+gql.twitch.tv
+static.twitchsvc.net
+twitchsvc.net
+jtvnw.net
+twitchapps.com
+clips.twitch.tv
+vod.twitch.tv
+
+
+# -----------------------------------------------
+# YOUTUBE
+# -----------------------------------------------
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+studio.youtube.com
+gaming.youtube.com
+kids.youtube.com
+youtu.be
+youtubei.googleapis.com
+yt3.ggpht.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+yt.be
+
+
+# -----------------------------------------------
+# MASTODON (Major public instances)
+# -----------------------------------------------
+mastodon.social
+mstdn.social
+fosstodon.org
+hachyderm.io
+infosec.exchange
+techhub.social
+mastodon.online
+mas.to
+
+
+# -----------------------------------------------
+# BEREAL
+# -----------------------------------------------
+bereal.com
+www.bereal.com
+api.bereal.com
+us-central-storage.bereal.com
+
+
+# -----------------------------------------------
+# VKONTAKTE (VK)
+# -----------------------------------------------
+vk.com
+www.vk.com
+m.vk.com
+api.vk.com
+vk.me
+vkuseraudio.net
+vkuservideo.net
+userapi.com
+vk-cdn.net
+
+
+# -----------------------------------------------
+# WEIBO
+# -----------------------------------------------
+weibo.com
+www.weibo.com
+m.weibo.cn
+weibo.cn
+api.weibo.com
+open.weibo.com
+
+
+# -----------------------------------------------
+# WECHAT
+# -----------------------------------------------
+wechat.com
+www.wechat.com
+wx.qq.com
+weixin.qq.com
+
+
+# -----------------------------------------------
+# LINE
+# -----------------------------------------------
+line.me
+www.line.me
+social-plugins.line.me
+api.line.me
+obs.line-apps.com
+
+
+# -----------------------------------------------
+# CLUBHOUSE
+# -----------------------------------------------
+joinclubhouse.com
+www.joinclubhouse.com
+api.joinclubhouse.com
+
+
+# -----------------------------------------------
+# QUORA
+# -----------------------------------------------
+quora.com
+www.quora.com
+m.quora.com
+api.quora.com
+qph.fs.quoracdn.net
+
+
+# -----------------------------------------------
+# FLICKR
+# -----------------------------------------------
+flickr.com
+www.flickr.com
+api.flickr.com
+live.staticflickr.com
+
+
+# -----------------------------------------------
+# MEETUP
+# -----------------------------------------------
+meetup.com
+www.meetup.com
+api.meetup.com
+secure.meetup.com
+
+
+# -----------------------------------------------
+# GAMING SOCIAL / COMMUNITIES
+# -----------------------------------------------
+steamcommunity.com
+www.steamcommunity.com
+steamcdn-a.akamaihd.net
+xboxlive.com
+www.xboxlive.com
+xbox.com
+www.xbox.com
+social.xbox.com
+account.xbox.com
+playstation.com
+www.playstation.com
+sonyentertainmentnetwork.com
+www.sonyentertainmentnetwork.com
+psn.store
+store.playstation.com
+battle.net
+www.battle.net
+us.battle.net
+blizzard.com
+roblox.com
+www.roblox.com
+rbxcdn.com
+assetgame.roblox.com
+apis.roblox.com
+thumbnails.roblox.com
+
+
+# -----------------------------------------------
+# VIDEO / STREAMING (SOCIAL-ADJACENT)
+# -----------------------------------------------
+rumble.com
+www.rumble.com
+api.rumble.com
+sp.rmbl.ws
+dailymotion.com
+www.dailymotion.com
+api.dailymotion.com
+cdn.dailymotion.com
+dmcdn.net
+vimeo.com
+www.vimeo.com
+api.vimeo.com
+player.vimeo.com
+vimeocdn.com
+fresnel.vimeocdn.com
+odysee.com
+www.odysee.com
+lbry.tv
+api.odysee.com
+kick.com
+www.kick.com
+api.kick.com
+stream.kick.com
+
+
+# -----------------------------------------------
+# IMAGE SHARING
+# -----------------------------------------------
+imgur.com
+www.imgur.com
+i.imgur.com
+api.imgur.com
+m.imgur.com
+deviantart.com
+www.deviantart.com
+api.deviantart.com
+sta.sh
+wixmp.com
+images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
+500px.com
+www.500px.com
+api.500px.com
+
+
+# -----------------------------------------------
+# DATING APPS (NETWORK-LEVEL)
+# -----------------------------------------------
+tinder.com
+www.tinder.com
+api.tinder.com
+gotinder.com
+media.gotinder.com
+bumble.com
+www.bumble.com
+api.bumble.com
+hinge.co
+www.hinge.co
+api.hinge.co
+okcupid.com
+www.okcupid.com
+api.okcupid.com
+match.com
+www.match.com
+api.match.com
+pof.com
+www.pof.com
+eharmony.com
+www.eharmony.com
+zoosk.com
+www.zoosk.com
+grindr.com
+www.grindr.com
+api.grindr.com
+
+
+# -----------------------------------------------
+# FORUM & COMMUNITY SITES
+# -----------------------------------------------
+4chan.org
+www.4chan.org
+4channel.org
+www.4channel.org
+boards.4chan.org
+s.4cdn.org
+i.4cdn.org
+digg.com
+www.digg.com
+mix.com
+www.mix.com
