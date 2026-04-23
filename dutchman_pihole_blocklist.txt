@@ -230,7 +230,7 @@ music.youtube.com
 studio.youtube.com
 gaming.youtube.com
 kids.youtube.com
-youtu.be
+#youtu.be
 youtubei.googleapis.com
 yt3.ggpht.com
 ytimg.com
