@@ -232,11 +232,11 @@ gaming.youtube.com
 kids.youtube.com
 #youtu.be
 youtubei.googleapis.com
-yt3.ggpht.com
-ytimg.com
+#yt3.ggpht.com
+#ytimg.com
 #i.ytimg.com
-s.ytimg.com
-yt.be
+#s.ytimg.com
+#yt.be
 
 
 # -----------------------------------------------
