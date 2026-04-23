@@ -234,7 +234,7 @@ kids.youtube.com
 youtubei.googleapis.com
 yt3.ggpht.com
 ytimg.com
-i.ytimg.com
+#i.ytimg.com
 s.ytimg.com
 yt.be
 
